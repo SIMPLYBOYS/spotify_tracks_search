@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/aaron/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/home/aaron/OpenSourceProjects/spotify-web-api-android/sample-search/build/intermediates/pre-dexed/debug/gson-2.3.1-40933141443c8013c50cd80902c9303363fd33b7.jar" />
+    </item>
+    <item
+        jar="/home/aaron/OpenSourceProjects/spotify-web-api-android/sample-search/build/intermediates/exploded-aar/com.spotify.android/spotify-api/0.4.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4d0bda25dccff5e2f9b2dbf56b5b7ebb155b93a2">
+        <dex dex="/home/aaron/OpenSourceProjects/spotify-web-api-android/sample-search/build/intermediates/pre-dexed/debug/classes-8ecebd8548b8248672fdf4615526d9898c3ed085.jar" />
+    </item>
+    <item
+        jar="/home/aaron/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/aaron/OpenSourceProjects/spotify-web-api-android/sample-search/build/intermediates/pre-dexed/debug/picasso-2.5.2-8f990d52a547c884c87b77516b70baaa2779a457.jar" />
+    </item>
+    <item
+        jar="/home/aaron/OpenSourceProjects/spotify-web-api-android/sample-search/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/aaron/OpenSourceProjects/spotify-web-api-android/sample-search/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-1e1f95910925187f8e998d74bb48cdf304b70e93.jar" />
+    </item>
+    <item
+        jar="/home/aaron/OpenSourceProjects/spotify-web-api-android/sample-search/build/intermediates/exploded-aar/com.spotify.sdk/spotify-auth/1.0.0-beta13/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="43b85c5b5849249a42ce6f10a88b781393772304">
+        <dex dex="/home/aaron/OpenSourceProjects/spotify-web-api-android/sample-search/build/intermediates/pre-dexed/debug/classes-6195bdf0171323a5ace40d0196068ad51df19b46.jar" />
+    </item>
+    <item
+        jar="/home/aaron/OpenSourceProjects/spotify-web-api-android/sample-search/build/intermediates/exploded-aar/com.spotify.sdk/spotify-player/1.0.0-beta13/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="19768ada4db6114386bb7ea58397601260f6b2ed">
+        <dex dex="/home/aaron/OpenSourceProjects/spotify-web-api-android/sample-search/build/intermediates/pre-dexed/debug/classes-fca8c8dfa70f8d2f2153cdee31a3b917399120f3.jar" />
+    </item>
+    <item
+        jar="/home/aaron/caches/modules-2/files-2.1/com.google.guava/guava/18.0/cce0823396aa693798f8882e64213b1772032b09/guava-18.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="/home/aaron/OpenSourceProjects/spotify-web-api-android/sample-search/build/intermediates/pre-dexed/debug/guava-18.0-dddb59aee6e3e4e4447e4077ced20fc190047980.jar" />
+    </item>
+    <item
+        jar="/home/aaron/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/aaron/OpenSourceProjects/spotify-web-api-android/sample-search/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-e82494d8ffef35c4f4cb30f2f0e9a2350e2c52c8.jar" />
+    </item>
+    <item
+        jar="/home/aaron/OpenSourceProjects/spotify-web-api-android/sample-search/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/home/aaron/OpenSourceProjects/spotify-web-api-android/sample-search/build/intermediates/pre-dexed/debug/classes-66f033a9c6d5901a4ab84a119f58054a5ffe5d1c.jar" />
+    </item>
+    <item
+        jar="/home/aaron/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/home/aaron/OpenSourceProjects/spotify-web-api-android/sample-search/build/intermediates/pre-dexed/debug/retrofit-1.9.0-9577d192765b1dc22bf8ebd8a1aeef1ce7f80366.jar" />
+    </item>
+    <item
+        jar="/home/aaron/OpenSourceProjects/spotify-web-api-android/sample-search/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/home/aaron/OpenSourceProjects/spotify-web-api-android/sample-search/build/intermediates/pre-dexed/debug/classes-ee047dd7ab1b4b111a67351e80745a50563d622c.jar" />
+    </item>
+    <item
+        jar="/home/aaron/OpenSourceProjects/spotify-web-api-android/sample-search/build/intermediates/exploded-aar/com.spotify.sdk/spotify-player/1.0.0-beta13/jars/libs/jnihelpers-1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="28a7909f288b4320727832637998733eefd61951">
+        <dex dex="/home/aaron/OpenSourceProjects/spotify-web-api-android/sample-search/build/intermediates/pre-dexed/debug/jnihelpers-1.0-cd3e072ca3212b549d56e6388dcb3243c8c28864.jar" />
+    </item>
+    <item
+        jar="/home/aaron/OpenSourceProjects/spotify-web-api-android/sample-search/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/aaron/OpenSourceProjects/spotify-web-api-android/sample-search/build/intermediates/pre-dexed/debug/classes-e1db4139e618edc9af66ae611c7c418ba959d7cd.jar" />
+    </item>
+
+</items>
